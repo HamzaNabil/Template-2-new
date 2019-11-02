@@ -427,8 +427,8 @@ section.slider img {
 
 .product-overlay {
   position: absolute;
-  top: 0;
   left: 0;
+  top: 0;
   transform: scaleX(0);
   transition: transform 0.2s;
 }
